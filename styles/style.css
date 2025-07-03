@@ -262,6 +262,9 @@ body{
 .btn-primary:hover{
     background-color: greenyellow;
 }
+.marquee{
+    background-color: #F0AA00;
+}
 @media screen and (max-width:576px){
     .display-none{
         display: none;
